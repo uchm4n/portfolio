@@ -1,0 +1,17 @@
+title: Grable
+default_lang: ka
+author:
+  name: 'Ucha Chilachava'
+  email: ucha19871@gmail.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'my Profile site'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

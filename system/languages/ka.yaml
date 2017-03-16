@@ -1,0 +1,81 @@
+---
+FRONTMATTER_ERROR_PAGE: |
+  ---
+  title: %1$s
+  ---
+  
+  # შეცდომა: არასწორი შინაარსი
+  
+  Path: `%2$s`
+  
+  **%3$s**
+  
+  ```
+  %4$s
+  ```
+INFLECTOR_IRREGULAR:
+  person: ხალხი
+  man: ადამიანი
+  child: ბავშვი
+  sex: სქესი
+  move: მოძრაობა
+NICETIME:
+  NO_DATE_PROVIDED: თარიღი არ არის მითითებული
+  BAD_DATE: არასწორი თარიღი
+  AGO: ხნის უკან
+  FROM_NOW: теперь
+  SECOND: секунда
+  MINUTE: минута
+  HOUR: час
+  DAY: д
+  WEEK: неделя
+  MONTH: месяц
+  YEAR: год
+  DECADE: десятилетие
+  SEC: с
+  MIN: мин
+  HR: ч
+  WK: нед.
+  MO: мес.
+  YR: г.
+  DEC: гг.
+  SECOND_PLURAL: წამი
+  MINUTE_PLURAL: წუთი
+  HOUR_PLURAL: საათი
+  DAY_PLURAL: დ
+  WEEK_PLURAL: კვირა
+  MONTH_PLURAL: თვეები
+  YEAR_PLURAL: წლები
+  DECADE_PLURAL: ათწლეული
+  SEC_PLURAL: с
+  MIN_PLURAL: мин
+  HR_PLURAL: ч
+  WK_PLURAL: нед
+  MO_PLURAL: мес
+  YR_PLURAL: г.
+  DEC_PLURAL: гг.
+FORM:
+  VALIDATION_FAIL: '<b>Проверка не удалась:</b>'
+  INVALID_INPUT: Неверный ввод в
+  MISSING_REQUIRED_FIELD: 'Отсутствует необходимое поле:'
+MONTHS_OF_THE_YEAR:
+  - Январь
+  - Февраль
+  - მარტი
+  - აპრილი
+  - მაისი
+  - ივნისი
+  - ივლისი
+  - Август
+  - Сентябрь
+  - Октябрь
+  - Ноябрь
+  - Декабрь
+DAYS_OF_THE_WEEK:
+  - ორშაბათი
+  - სამშაბათი
+  - ოთხშაბათი
+  - ხუთშაბათი
+  - პარასკევი
+  - შაბათი
+  - კვირა
