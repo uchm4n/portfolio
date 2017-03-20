@@ -18,13 +18,6 @@ taxonomy:
 | Skype: | ucha19871 |
 | Github | [github.com/ucha19871](https://github.com/ucha19871/?target=_blank)  |
 
+       
+Download a file <a href="https://docs.google.com/document/d/1lC6lrJDjGkHGAVeKUmGkKjkCrfIJqHS6Vnq7GYwXk-s/edit?usp=sharing" target="_blank"><i class="fa fa-file-text" aria-hidden="true"></i></a>
 
-
-
-
-
-
-
-
-
-I like contact with new people, drink a coffee, training at a gym.
