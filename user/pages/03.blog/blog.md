@@ -1,5 +1,9 @@
 ---
 title: Blog
+published: true
+taxonomy:
+    category:
+        - blog
 sitemap:
     changefreq: monthly
 body_classes: 'header-image fullwidth'

@@ -3,8 +3,7 @@
 {% set collection = page.collection() %}
 
 {% block content %}
-    <div id="chapter">
-        <div id="body-inner">
+    <div id="container">
 
             {% set blog_image = page.media.images|first.grayscale().contrast(20).brightness(-100).colorize(-35,81,122) %}
 
@@ -15,6 +14,7 @@
                     {% endif %}
                     {{ page.content }}
                 </div>
+                <hr>
 
                 <div class="content-wrapper blog-content-list grid pure-g">
                     <div id="listing" class="block pure-u-1-2 h-feed">
@@ -42,6 +42,5 @@
 
                 </div>
             </div>
-        </div>
     </div>
 {% endblock %}
