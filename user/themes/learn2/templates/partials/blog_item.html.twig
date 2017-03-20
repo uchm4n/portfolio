@@ -23,11 +23,14 @@
 
         {% if page.taxonomy.tag %}
             <span class="tags">
+                <i class="fa fa-tags" aria-hidden="true"></i>
                 {% for tag in page.taxonomy.tag %}
                 <a href="{{ blog.url|rtrim('/') }}/tag{{ config.system.param_sep }}{{ tag }}" class="p-category">{{ tag }}</a>
                 {% endfor %}
             </span>
         {% endif %}
+        <hr>
+
 
         {% if header_image %}
             {% if header_image_file %}
