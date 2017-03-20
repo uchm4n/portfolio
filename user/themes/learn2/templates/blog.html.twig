@@ -1,0 +1,47 @@
+{% extends 'docs.html.twig' %}
+
+{% set collection = page.collection() %}
+
+{% block content %}
+    <div id="chapter">
+        <div id="body-inner">
+
+            {% set blog_image = page.media.images|first.grayscale().contrast(20).brightness(-100).colorize(-35,81,122) %}
+
+            {% if blog_image %}
+            <div class="flush-top blog-header blog-header-image">
+                {% else %}
+                <div class="blog-header">
+                    {% endif %}
+                    {{ page.content }}
+                </div>
+
+                <div class="content-wrapper blog-content-list grid pure-g">
+                    <div id="listing" class="block pure-u-1-2 h-feed">
+                        {% for child in collection %}
+                            {% include 'partials/blog_item.html.twig' with {'blog':page, 'page':child, 'truncate':true} %}
+                        {% endfor %}
+
+                        {% if config.plugins.pagination.enabled and collection.params.pagination %}
+                            {% include 'partials/pagination.html.twig' with {'base_url':page.url, 'pagination':collection.params.pagination} %}
+                        {% endif %}
+                    </div>
+
+                    <div class="size-1-5 pure-u-1-24"></div>
+                    <div class="block size-1-5 pure-u-1-2">
+                        {#{% set new_base_url = blog.url == '/blog' ? '' : blog.url %}
+
+                        {% if config.plugins.taxonomylist.enabled %}
+                            <div class="tags">
+                                <h4>Popular Tags#}{#{{ 'SIDEBAR.POPULAR_TAGS.HEADLINE'|t }}#}{#</h4>
+                                {% include 'partials/taxonomylist.html.twig' with {'base_url':new_base_url, 'taxonomy':'tag'} %}
+                            </div>
+                        {% endif %}#}
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
