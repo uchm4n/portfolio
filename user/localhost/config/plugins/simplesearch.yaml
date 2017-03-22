@@ -1,0 +1,15 @@
+enabled: false
+built_in_css: false
+display_button: true
+min_query_length: 3
+route: /search
+template: simplesearch_results
+filters:
+  category:
+    - docs
+    - blog
+filter_combinator: and
+ignore_accented_characters: false
+order:
+  by: date
+  dir: desc
