@@ -388,14 +388,20 @@ class ProjectManagement
 ###Dependency Inversion Principle
 ---
 
+
+> - High-level modules should not depend on low-level modules. Both should depend on abstractions.
+> - Abstractions should not depend upon details. Details should depend upon abstractions.
+
+
+> ##### NOTE: Dependency inversion does note equal Dependency injection
+
 ```php
 
 <?php
 
 // Dependency Inversion Principle Violation
-class Mailer
-{
-}
+class Mailer {}
+
 class SendWelcomeMessage
 {
     private $mailer;
@@ -404,23 +410,31 @@ class SendWelcomeMessage
         $this->mailer = $mailer;
     }
 }
+
+
 // Refactored
+// This is main interface which is "high level module" 
 interface Mailer
 {
     public function send();
 }
+
+// This class is considered low level, bocause it's too specific
 class SmtpMailer implements Mailer
 {
     public function send()
     {
     }
 }
+
+// This class too
 class SendGridMailer implements Mailer
 {
     public function send()
     {
     }
 }
+
 class SendWelcomeMessage
 {
     private $mailer;
