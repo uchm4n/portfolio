@@ -128,3 +128,4 @@ gpm:
   releases: stable
   method: auto
   verify_peer: true
+  official_gpm_only: true

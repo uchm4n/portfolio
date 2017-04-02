@@ -6,66 +6,78 @@
     {% set header_image_file = page.header.header_image_file %}
 
     <div class="list-blog-header">
+        <div class="demo-card-wide mdl-card mdl-shadow--2dp">
 
-        {% if page.header.link %}
-            <h4 class="p-name">
-                {% if page.header.continue_link is not sameas(false) %}
-                <a href="{{ page.url }}"><i class="fa fa-angle-double-right u-url"></i></a>
+            {% if header_image %}
+                {% if header_image_file %}
+                    {% set header_image_media = page.media.images[header_image_file] %}
+                {% else %}
+                    {% set header_image_media = page.media.images|first %}
                 {% endif %}
-                <a href="{{ page.header.link }}" class="u-url">{{ page.title }}</a>
-            </h4>
-        {% else %}
-            <h4 class="p-name"><a href="{{ page.url }}" class="u-url">{{ page.title }}</a></h4>
-            <span class="list-blog-date">
-                <em>{{ page.date|date("F j, Y") }}</em>
-            </span><br>
-        {% endif %}
-
-        {% if page.taxonomy.tag %}
-            <span class="tags">
-                <i class="fa fa-tags" aria-hidden="true"></i>
-                {% for tag in page.taxonomy.tag %}
-                <a href="{{ blog.url|rtrim('/') }}/tag{{ config.system.param_sep }}{{ tag }}" class="p-category">{{ tag }}</a>
-                {% endfor %}
-            </span>
-        {% endif %}
-        <hr>
-        {% if header_image %}
-            {% if header_image_file %}
-                {% set header_image_media = page.media.images[header_image_file] %}
-            {% else %}
-                {% set header_image_media = page.media.images|first %}
+                {{ header_image_media.cropZoom(header_image_width, header_image_height).html }}
             {% endif %}
-            {{ header_image_media.cropZoom(header_image_width, header_image_height).html }}
-        {% endif %}
+
+            <div class="mdl-card__title">
+                {% if page.header.link %}
+                    <h2 class="mdl-card__title-text">
+                        {% if page.header.continue_link is not sameas(false) %}
+                        <a href="{{ page.url }}"><i class="fa fa-angle-double-right u-url"></i></a>
+                        {% endif %}
+                        <a href="{{ page.header.link }}" class="u-url">{{ page.title }}</a>
+                    </h2>
+                {% else %}
+            </div>
+            <div class="mdl-card__sub_title">
+                    <h2 class="mdl-card__title-text"><a href="{{ page.url }}" class="u-url">{{ page.title }}</a></h2>
+                    <span class="list-blog-date">
+                        <em>{{ page.date|date("F j, Y") }}</em>
+                    </span><br>
+                {% endif %}
+
+                {% if page.taxonomy.tag %}
+                    <span class="tags">
+                        <i class="fa fa-tags" aria-hidden="true"></i>
+                        {% for tag in page.taxonomy.tag %}
+                            <span class="mdl-chip">
+                                <a class="mdl-chip__text" href="{{ blog.url|rtrim('/') }}/tag{{ config.system.param_sep }}{{ tag }}">{{ tag }}</a>
+                            </span>
+                        {% endfor %}
+                    </span>
+                {% endif %}
+            </div>
+
+            <div class="mdl-card__supporting-text">
+                {% if page.header.continue_link is sameas(false) %}
+                    <div class="e-content">
+                        {{ page.content }}
+                    </div>
+                {% elseif truncate and page.summary != page.content %}
+                    <div class="p-summary e-content">
+                        {{ page.summary }}
+                    </div>
+                    <div class="mdl-card__actions mdl-card--border">
+                        <a style="color: #452222;" href="{{ page.url }}" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                            Continue Reading
+                        </a>
+                    </div>
+                {% elseif truncate %}
+
+                    <div class="p-summary e-content">
+                        {{ page.content }}
+                        <p><a class="btn" href="{{ page.url }}">Continue Reading</a></p>
+                    </div>
+                {% else %}
+                    <div class="e-content">
+                        {{ page.content }}
+                    </div>
+
+                {% endif %}
+            </div>
+        </div>
+        <hr>
     </div>
 
     <div class="list-blog-padding">
-
-        {% if page.header.continue_link is sameas(false) %}
-            <div class="e-content">
-                {{ page.content }}
-            </div>
-
-        {% elseif truncate and page.summary != page.content %}
-            <div class="p-summary e-content">
-                {{ page.summary }}
-                <p><a class="btn" href="{{ page.url }}">{#{{ 'BLOG.ITEM.CONTINUE_READING'|t }}#}Continue Reading</a></p>
-            </div>
-
-        {% elseif truncate %}
-            <div class="p-summary e-content">
-                {{ page.content }}
-                <p><a class="btn" href="{{ page.url }}">{#{{ 'BLOG.ITEM.CONTINUE_READING'|t }}#}Continue Reading</a></p>
-            </div>
-
-        {% else %}
-            <div class="e-content">
-                {{ page.content }}
-            </div>
-
-        {% endif %}
-
         {#{% include 'partials/disqus.html.twig' %}#}
     </div>
 </div>
