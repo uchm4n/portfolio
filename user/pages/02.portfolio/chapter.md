@@ -17,7 +17,6 @@ process:
         <div class="card">
           <div class="image">
             <img src="http://bankofgeorgia.ge/m/u/ck/images/StaticPages/BankOfGergiaLogo.jpg">
-            <span class="title">Road Warrior</span>
           </div>
           <div class="content">
             <p>4th generation internet banking from Bank of Georgia</p>
