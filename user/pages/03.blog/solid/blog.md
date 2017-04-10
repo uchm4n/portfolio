@@ -16,7 +16,6 @@ maintain and extend. They also make it easy for developers to avoid code smells,
 easily refactor code, and are also a part of the agile or adaptive software development.
 Understanding these concepts will make you a better developer.
 
-> **Note:** This article is just my notes, which I gathered from various posts and bundled it all together.
 
 **S.O.L.I.D** STANDS FOR:             
 When expanded the acronyms might seem complicated, but they are pretty simple to grasp.

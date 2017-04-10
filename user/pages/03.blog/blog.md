@@ -23,3 +23,5 @@ pagination: true
 
 # My Blog
 
+ ###### **Note:** This articles is just my notes, which I gathered from various posts and bundled all together, for quick reference.
+ 
