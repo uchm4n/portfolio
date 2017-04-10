@@ -13,13 +13,13 @@ _01/07/2015 – nowadays_
 
 Main responsibilities:
 
-> - Cooperate with team
-> - Create software documentation
-> - Be responsible for maintaining, expanding and scaling software
-> - Design software architecture
-> - Write well designed testable code and follow architecture
-> - Develop mobile applications and well designed API
-> - Research new technologies
+ - Cooperate with team
+ - Create software documentation
+ - Be responsible for maintaining, expanding and scaling software
+ - Design software architecture
+ - Write well designed testable code and follow architecture
+ - Develop mobile applications and well designed API
+ - Research new technologies
 
 
 ___
@@ -30,13 +30,13 @@ _01/02/2014 – 01/05/2015_
 
 Main responsibilities:
 
-> - Create and maintain software documentation
-> - Be responsible for maintaining, expanding and scaling software
-> - Cooperate with web designers to match visual design intent
-> - Integrate data from various back-end services and databases
-> - Develop API architecture and maintain
-> - Integrate 3Party payment gateways in our software
-> - Monitor server/network load and cooperate with DevOps
+ - Create and maintain software documentation
+ - Be responsible for maintaining, expanding and scaling software
+ - Cooperate with web designers to match visual design intent
+ - Integrate data from various back-end services and databases
+ - Develop API architecture and maintain
+ - Integrate 3Party payment gateways in our software
+ - Monitor server/network load and cooperate with DevOps
 
 
 ---
@@ -47,8 +47,8 @@ _07/02/2010 – 01/11/2013_
 
 Main responsibilities:
 
-> - Write well designed, testable code and follow architecture structure
-> - Create website templates by using Html/Css/JS/PHP for CMS (Drupal,Wordpress)
-> - Write scripts (bash,php) for linux machines to automate jobs
-> - Develop internal portals
-> - Develop Web interfaces,and APIs for users to access company resources
+ - Write well designed, testable code and follow architecture structure
+ - Create website templates by using Html/Css/JS/PHP for CMS (Drupal,Wordpress)
+ - Write scripts (bash,php) for linux machines to automate jobs
+ - Develop internal portals
+ - Develop Web interfaces,and APIs for users to access company resources
