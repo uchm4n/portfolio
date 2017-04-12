@@ -1,13 +1,13 @@
 ---
 title: 'Design Patterns: Adapter Pattern'
 published: false
-date: '18:56 04/05/2017'
+date: '08-04-2017 22:04'
 taxonomy:
     category:
         - blog
     tag:
         - 'Design Patterns'
-        - Decorator
+        - Adapter
 ---
 
 Convert the interface of a class into another interface clients expect. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
