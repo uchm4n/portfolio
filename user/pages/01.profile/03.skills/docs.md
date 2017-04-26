@@ -16,7 +16,8 @@ taxonomy:
    - Typescript, Angular2, Vue.Js 2, JQuery
  + Databases
    - MySQL, MsSql, MongoDB, CouchDB, Firebase, Oracle (PL/SQL basics)
- - HTML, CSS
+ + Front-End:
+   - HTML, CSS, SASS, LESS, Bootstrap 3|4, Bulma
  + Mobile Application Development
    - NativeScript, Ionic 2
  - Source Control:
