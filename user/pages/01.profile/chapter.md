@@ -19,5 +19,5 @@ taxonomy:
 | Github | [github.com/uC137](https://github.com/uC137/?target=_blank)  |
 
        
-Download a file <a href="https://docs.google.com/document/d/1lC6lrJDjGkHGAVeKUmGkKjkCrfIJqHS6Vnq7GYwXk-s/edit?usp=sharing" target="_blank"><i class="fa fa-file-text" aria-hidden="true"></i></a>
+ <a href="https://docs.google.com/document/d/1lC6lrJDjGkHGAVeKUmGkKjkCrfIJqHS6Vnq7GYwXk-s/edit?usp=sharing" target="_blank">Download a file <i class="fa fa-file-text" aria-hidden="true"></i></a>
 

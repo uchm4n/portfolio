@@ -6,7 +6,7 @@ taxonomy:
 ---
 
 ___
-**Middle PHP Developer**                   
+**Senior PHP Developer**                   
 _01/07/2015 – nowadays_
 
 [Zenith Engineering Group](http://zgroup.ge/?target=_blank)
@@ -20,6 +20,7 @@ Main responsibilities:
  - Write well designed testable code and follow architecture
  - Develop mobile applications and well designed API
  - Research new technologies
+ - Contribute to open source projects
 
 
 ___

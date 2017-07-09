@@ -5,9 +5,9 @@ taxonomy:
         - docs
 ---
 
-#### I have more than 3-4 years of commercial experience in PHP development
+I am seeking a competitive and challenging environment where I can use my experience and skills to help the company meet and surpass its goals. I have more than 3 years of commercial experience in PHP development.
 
-
+My current software development skills:
  + PHP:
    - OOP, SOLID Principles, Design Patterns
  + PHP Frameworks:
@@ -15,16 +15,18 @@ taxonomy:
  + Javascript
    - Typescript, Angular2, Vue.Js 2, JQuery
  + Databases
-   - MySQL, MsSql, MongoDB, CouchDB, Firebase, Oracle (PL/SQL basics)
+   - MySQL, MsSql, MongoDB, Firebase
  + Front-End:
    - HTML, CSS, SASS, LESS, Bootstrap 3|4, Bulma
  + Mobile Application Development
    - NativeScript, Ionic 2
+ + Dev Enviroment:
+   - Docker,Vagrant
  - Source Control:
    - GIT,SVN
  + Project Management Software:
    - JIRA, Redmine
- - Strong technical and analytical skills
+ - Strong technical and analytical skills. Adaptable to learn new skills and technologies for enhanced productivity.
 
 
 
