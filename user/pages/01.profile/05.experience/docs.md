@@ -20,7 +20,7 @@ Main responsibilities:
  - Write well designed testable code and follow architecture
  - Develop mobile applications and well designed API
  - Research new technologies
- - Contribute to open source projects
+ - Contribute to open source projects, write framework-agnostic packages.
 
 
 ___

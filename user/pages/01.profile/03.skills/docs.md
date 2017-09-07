@@ -5,7 +5,7 @@ taxonomy:
         - docs
 ---
 
-I am seeking a competitive and challenging environment where I can use my experience and skills to help the company meet and surpass its goals. I have more than 3 years of commercial experience in PHP development.
+I am seeking a competitive and challenging environment where I can use my experience and skills to help the company meet and surpass its goals. I have more than 4 years of experience in PHP development.
 
 My current software development skills:
  + PHP:
