@@ -8,7 +8,8 @@ taxonomy:
 This application is made with **vuejs** on front end and **Laravel** at backend 
 You can check source code on **[Github](https://github.com/uC137/spotware)**
 
-Login credentials
+
+[Demo APP](http://client.expertj.com)
 ---
 email: demo@example.com  
 password: 12345

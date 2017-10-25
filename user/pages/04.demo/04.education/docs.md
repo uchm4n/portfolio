@@ -5,8 +5,8 @@ taxonomy:
         - docs
 ---
 
-**Georgian Technical University** (Tbilisi, Georgia) _Date 2005 - 2009_                  
-Department of Computer Systems, Bachelor degree
+News Mobile app on Angulars Nativescript
 
-**IT Knowledge** (Tbilisi, Georgia) _End date 2011_      
- Department of Computer Systems
+See code on [Github](https://github.com/uC137/androidNG)
+![](https://raw.githubusercontent.com/uC137/androidNG/master/Screen.png)
+
