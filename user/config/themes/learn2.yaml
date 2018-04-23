@@ -1,7 +1,0 @@
-enabled: true
-top_level_version: false
-google_analytics_code: UA-59229127-1
-github:
-  position: 'off'
-  tree: 'https://github.com/getgrav/grav-skeleton-rtfm-site/blob/develop/'
-  commits: 'https://github.com/getgrav/grav-skeleton-rtfm-site/commits/develop/'
