@@ -6,7 +6,7 @@ title: Portfolio
 
 **Ucha Chilachava**
 
-<img src="./img/img01.jpg" width="330">
+![](./img/img.jpg)
 
 | | |
 | :--- | :--- |
