@@ -112,4 +112,4 @@ _07/02/2010 – 01/11/2013_
  - Create website templates by using Html/Css/JS/PHP for CMS (Drupal,Wordpress)
  - Write scripts (bash,php) for linux machines to automate jobs
  - Develop internal portals
- - Develop Web interfaces,and APIs for users to access company resources
+ - Develop Web inreadmeterfaces,and APIs for users to access company resources
