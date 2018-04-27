@@ -62,7 +62,7 @@ export default {
 
       let path = normalize(this.$page.path)
       if (endingSlashRE.test(path)) {
-        path += 'README.md'
+        path += 'index.md'
       } else {
         path += '.md'
       }
