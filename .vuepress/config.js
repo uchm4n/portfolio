@@ -1,4 +1,5 @@
 module.exports = {
+    dest: 'docs',
     title: 'Portfolio',
     description: 'Portfolio page',
     locales: {
