@@ -1,6 +1,7 @@
 module.exports = {
     dest: 'docs',
     base:'/portfolio/',
+    ga:'UA-59229127-1', //google analytics
     title: 'Portfolio',
     description: 'Portfolio page',
     locales: {
