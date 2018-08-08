@@ -68,9 +68,9 @@ My current software development skills:
 ## Experience
 
 **Senior PHP Developer**                   
-_01/07/2015 – nowadays_
+_04/04/2016 – nowadays_
 
-[Zenith Engineering Group](http://zgroup.ge/)
+[ZEG - (Zenith Engineering Group)](http://zgroup.ge/)
 
 Main responsibilities:
 
