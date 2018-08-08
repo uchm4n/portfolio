@@ -14,11 +14,11 @@ if [ -d ".git/" ]; then
 fi
 
 git init
-git remote add origin git@github.com:uC137/portfolio.git
+#git remote add origin git@github.com:uC137/portfolio.git
 git add -A
-git fetch
-git checkout vuepress
+#git fetch
+#git checkout vuepress
 git commit -m 'deploy'
-git push -f git@github.com:uC137/portfolio.git vuepress:gh-pages
+git push -f git@github.com:uC137/portfolio.git master:gh-pages
 
 cd -
