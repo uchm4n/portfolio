@@ -11,9 +11,9 @@ title: Portfolio
 | | |
 | :--- | :--- |
 | Date of birth: | 1 Jun 1987 |
-| Location: | Georgia, Tbilisi |
+| Birth Location: | Georgia, Tbilisi |
+| Current Location: | US, Florida, Fort Lauderdale |
 | E-mail: | ucha19871@gmail.com |
-| Skype: | ucha19871 |
 | Github | [github.com/uC137](https://github.com/uC137/)  |
 
 I am seeking a competitive and challenging environment where 
