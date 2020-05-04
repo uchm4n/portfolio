@@ -44,7 +44,8 @@ My current software development skills:
    - MsSql
    - PostgreSQL
    - Firebase
- + **Front-End:**
+   - MongoDB
+ + **Markup:**
    - HTML, CSS, SASS, LESS, Bootstrap 3|4, Bulma
  + **Mobile Application Development:**
    - NativeScript 
@@ -56,7 +57,10 @@ My current software development skills:
  + **Project Management Software:**
    - JIRA, Redmine
    - Strong technical and analytical skills. Adaptable to learn new skills and technologies for enhanced productivity.
-
+   
+   
++ **Deno - A secure runtime for JavaScript and TypeScript:**
+   - Experimenting with new technologies
 ---
 
  ### Language skills
@@ -70,16 +74,16 @@ My current software development skills:
 **Senior PHP Developer**                   
 _01/07/2015 – nowadays_
 
-[Zenith Engineering Group](http://zgroup.ge/)
+[Zenith Engineering Group](http://zgroup.ge/) - ([MindGeek](https://www.mindgeek.com/))]
 
 Main responsibilities:
 
  - Cooperate with team
- - Create software documentation
+ - Create software packages and libraries + documentation
  - Be responsible for maintaining, expanding and scaling software
  - Design software architecture
- - Write well designed testable code and follow architecture
- - Develop mobile applications and well designed API
+ - Write well-designed testable code and follow architecture
+ - Develop mobile applications and well-designed API
  - Research new technologies
  - Contribute to open source projects, write framework-agnostic packages.
 
