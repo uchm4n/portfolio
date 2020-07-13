@@ -60,7 +60,7 @@ My current software development skills:
    
    
 + **Deno - A secure runtime for JavaScript and TypeScript:**
-   - Experimenting with new technologies
+   - Experimenting with new technologies / Contribute
 ---
 
  ### Language skills

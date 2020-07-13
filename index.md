@@ -4,7 +4,7 @@ title: Portfolio
 
 
 
-**Ucha Chilachava (UchMan)**
+**Ucha Chilachava**
 
 ![](https://en.gravatar.com/userimage/28694484/064cabf7e614c2cda116e0538ab123a8.png?size=300)
 
@@ -14,7 +14,7 @@ title: Portfolio
 | Birth Location: | Georgia, Tbilisi |
 | Current Location: | US, Florida, Fort Lauderdale |
 | E-mail: | ucha19871@gmail.com |
-| Github | [github.com/uC137](https://github.com/uC137/)  |
+| Github | [github.com/uchm4n](https://github.com/uchm4n/)  |
 
 I am seeking a competitive and challenging environment where 
 I can use my experience and skills to help the company meet and surpass its goals. 

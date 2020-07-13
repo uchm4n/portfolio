@@ -55,6 +55,9 @@ Department of Computer Systems, Bachelor degree
    - JIRA, Redmine
    - ძლიერი ტექნიკური და ანალიტიკური აზროვნება. 
    - ახალი ტექნოლოგიების სწრაფი ათვისების უნარი 
+   
+ + **Deno - დაცული გამშვები JavaScript-ისა და TypeScript-სათვის:**
+      - ახალი ტექნელოგიების გამოკვლევა/კონტრიბუცია
 
 ---
 
