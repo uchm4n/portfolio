@@ -4,7 +4,7 @@ title: პორტფოლიო
 
 
 
-**უჩა ჩილაჩავა (UchMan)**
+**უჩა ჩილაჩავა**
 
 ![](https://en.gravatar.com/userimage/28694484/064cabf7e614c2cda116e0538ab123a8.png?size=300)
 
