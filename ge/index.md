@@ -6,7 +6,7 @@ title: პორტფოლიო
 
 **უჩა ჩილაჩავა**
 
-![](https://en.gravatar.com/userimage/28694484/064cabf7e614c2cda116e0538ab123a8.png?size=300)
+![](https://en.gravatar.com/userimage/28694484/724ff3c100a33012672c26f6a9df7dae.png?size=300)
 
 | | |
 | :--- | :--- |
