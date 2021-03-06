@@ -4,6 +4,12 @@ module.exports = {
     ga:'UA-59229127-1', //google analytics
     title: 'Portfolio',
     description: 'Portfolio page',
+    plugins: {
+        '@vuepress/plugin-google-analytics': {
+            ga: 'UA-59229127-1',
+        },
+    },
+
     locales: {
         '/': {
             lang: 'en-US', // this will be set as the lang attribute on <html>
