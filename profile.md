@@ -35,8 +35,7 @@ My current software development skills:
     - CodeIgniter
  + **Javascript:**
    - Typescript
-   - Angular2
-   - Vue.Js
+   - Vue.Js 2/3
    - JQuery
    - LoDash
  + **Databases:**
@@ -45,6 +44,7 @@ My current software development skills:
    - PostgreSQL
    - Firebase
    - MongoDB
+   - ElasticSearch
  + **Markup:**
    - HTML, CSS, SASS, LESS, Bootstrap 3|4, Bulma
  + **Mobile Application Development:**
@@ -56,7 +56,9 @@ My current software development skills:
    - GIT,SVN
  + **Project Management Software:**
    - JIRA, Redmine
-   - Strong technical and analytical skills. Adaptable to learn new skills and technologies for enhanced productivity.
+   - Strong technical and analytical skills. 
+   Adaptable to learn new skills and technologies for enhanced productivity.
+   
    
    
 + **Deno - A secure runtime for JavaScript and TypeScript:**

@@ -33,15 +33,16 @@ Department of Computer Systems, Bachelor degree
     - CodeIgniter
  + **Javascript:**
    - Typescript
-   - Angular2
-   - Vue.Js
+   - Vue.Js 2/3
    - JQuery
    - LoDash
  + **Databases:**
-   - MySQL
-   - MsSql
-   - PostgreSQL
-   - Firebase
+    - MySQL
+    - MsSql
+    - PostgreSQL
+    - Firebase
+    - MongoDB
+    - ElasticSearch
  + **Markup:**
    - HTML, CSS, SASS, LESS, Bootstrap 3|4, Bulma
  + **Mobile Application Development:**
