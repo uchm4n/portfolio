@@ -60,7 +60,7 @@ My current software development skills:
    
    
 + **Deno - A secure runtime for JavaScript and TypeScript:**
-   - Experimenting with new technologies / Contribute
+   - Experimenting with new technologies / [Contribute](https://github.com/uchm4n/crony)
 ---
 
  ### Language skills

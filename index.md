@@ -6,8 +6,6 @@ title: Portfolio
 
 **Ucha Chilachava**
 
-![](https://en.gravatar.com/userimage/28694484/724ff3c100a33012672c26f6a9df7dae.png?size=300)
-
 | | |
 | :--- | :--- |
 | Date of birth: | 1 Jun 1987 |

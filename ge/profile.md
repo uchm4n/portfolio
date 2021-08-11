@@ -57,7 +57,7 @@ Department of Computer Systems, Bachelor degree
    - ახალი ტექნოლოგიების სწრაფი ათვისების უნარი 
    
  + **Deno - დაცული გამშვები JavaScript-ისა და TypeScript-სათვის:**
-      - ახალი ტექნელოგიების გამოკვლევა/კონტრიბუცია
+      - ახალი ტექნელოგიების შეასწავლა/[კონტრიბუცია](https://github.com/uchm4n/crony)
 
 ---
 
