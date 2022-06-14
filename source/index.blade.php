@@ -41,6 +41,7 @@
             <p>Markdown is the web’s leading format for writing articles, blog posts, documentation, and more. Jigsaw makes it painless to work with Markdown content.</p>
         </div>
 
+
         <div class="mx-3 px-2 md:w-1/3">
             <img src="/assets/img/icon-stack.svg" class="h-12 w-12" alt="stack icon">
 
