@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://jigsaw-docs-template.tighten.co',
+    'baseUrl' => 'https://uchm4n.github.io/portfolio/',
     'production' => true,
 
     // DocSearch credentials
