@@ -30,4 +30,15 @@ return [
     'url' => function ($page, $path) {
         return Str::startsWith($path, 'http') ? $path : '/' . trimPath($path);
     },
+
+    'nav' => function($page){
+        return $page->navigation->map(function($item){
+            if (!empty($page->baseUrl)){
+                $item->url = $page->baseUrl . $item->url;
+            }
+            return $item;
+        });
+    }
+
+
 ];
