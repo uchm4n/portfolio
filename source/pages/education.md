@@ -5,8 +5,8 @@ extends: _layouts.documentation
 section: content
 ---
 
-## Education
-
+Education
+---
 
 **Georgian Technical University** (Tbilisi, Georgia) _Date 2005 - 2009_                  
 Department of Computer Systems, Bachelor degree
@@ -18,12 +18,9 @@ Department of Computer Systems
 ---
 **Courses, Trainings, Certification**
 
-[Cisco CCNA certification](https://drive.google.com/file/d/10DoV9MNMZiwQP0VAAJyQW2_RSIe8XD6D/view?usp=sharing)
 
-[Microsoft Certified Technology Specialist (MCTS) certification](https://drive.google.com/open?id=1xrTdrI0Xz46O1VlT2b3qhm0eZV2gRY0v)
+<a href="https://drive.google.com/file/d/10DoV9MNMZiwQP0VAAJyQW2_RSIe8XD6D/view?usp=sharing" target="_blank">Cisco CCNA certification</a>
+
+<a href="https://drive.google.com/open?id=1xrTdrI0Xz46O1VlT2b3qhm0eZV2gRY0v" target="_blank">Microsoft Certified Technology Specialist (MCTS) certification</a>
 
 
-
----
-
-For more details, visit the [official Algolia DocSearch documentation.](https://community.algolia.com/docsearch/what-is-docsearch.html)

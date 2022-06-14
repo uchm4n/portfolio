@@ -5,7 +5,7 @@ use Illuminate\Support\Str;
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'My Portfolio',
+    'siteName' => 'Full Stack Developer',
     'siteDescription' => 'Ucha Chilachava',
     'google_analytics_id' => 'UA-59229127-1',
 
