@@ -5,15 +5,19 @@
 @endsection
 
 @section('body')
-<section class="container max-w-8xl mx-auto px-6 md:px-8 py-4">
-    <div class="flex flex-col lg:flex-row">
-        <nav id="js-nav-menu" class="nav-menu hidden lg:block">
-            @include('_nav.menu', ['items' => $page->navigation])
-        </nav>
+    <section class="container max-w-8xl mx-auto px-6 md:px-8 py-4">
+        <div class="flex flex-col lg:flex-row">
+            <nav id="js-nav-menu" class="nav-menu hidden lg:block">
+                @if(empty($page->baseUrl))
+                    @include('_nav.menu', ['items' => $page->navigation])
+                @else
+                    @include('_nav.menu', ['items' => $page->baseUrl . $page->navigation])
+                @endif
+            </nav>
 
-        <div class="DocSearch-content w-full lg:w-3/5 break-words pb-16 lg:pl-4" v-pre>
-            @yield('content')
+            <div class="DocSearch-content w-full lg:w-3/5 break-words pb-16 lg:pl-4" v-pre>
+                @yield('content')
+            </div>
         </div>
-    </div>
-</section>
+    </section>
 @endsection
