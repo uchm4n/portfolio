@@ -66,7 +66,6 @@
                 </a>
 
 
-                <p>Blade is a powerful, simple, and beautiful templating language, and now you can use it for your static sites, not just your Laravel-powered apps.</p>
             </div>
 
             <div class="mb-8 mx-3 px-2 md:w-1/3">
@@ -76,7 +75,6 @@
                 <h3 id="intro-markdown" class="text-2xl text-blue-900 mb-0">Skills</h3>
                 </a>
 
-                <p>Markdown is the web’s leading format for writing articles, blog posts, documentation, and more. Jigsaw makes it painless to work with Markdown content.</p>
             </div>
 
             <div class="mx-3 px-2 md:w-1/3">
@@ -86,7 +84,6 @@
                 <h3 id="intro-mix" class="text-2xl text-blue-900 mb-0">Experience</h3>
                 </a>
 
-                <p>Jigsaw comes pre-configured with Laravel Mix, a simple and powerful build tool. Use the latest frontend tech with just a few lines of code.</p>
             </div>
         </div>
     </section>
