@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'https://uchm4n.github.io/portfolio/',
+    'baseUrl' => 'https://uchm4n.github.io/portfolio',
     'production' => true,
 
     // DocSearch credentials

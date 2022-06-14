@@ -3,7 +3,7 @@
 use Illuminate\Support\Str;
 
 return [
-    'baseUrl'             => '',
+    'baseUrl'             => 'http://localhost:3000',
     'production'          => false,
     'siteName'            => 'Full Stack Developer',
     'siteDescription'     => 'Ucha Chilachava',
