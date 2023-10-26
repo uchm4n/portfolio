@@ -7,13 +7,31 @@ section: content
 
 
 Experience
+
 ---
 
 **Senior PHP Developer**                   
-_01/07/2015 – nowadays_
+_01/01/2022 – now_
 
+Company:  [SEWAN - ([Sewan Deutschland](https://de.sewan.eu/))]
 
-Company:  [GG Group - <a href="https://www.mindgeek.com/" target="_blank">MindGeek</a>]
+> The Sewan Group is an innovative, European white label platform operator for 
+> telecommunications and cloud services.
+> Main responsibilities:
+
+<li>Cooperate with team</li>
+<li>Converting old projects into modern well-designed code base</li>
+<li>Migrating all projects from old db driver in to new</li>
+<li>Be responsible for maintaining, expanding and scaling software</li>
+<li>Design software architecture</li>
+<li>Research new technologies (AI)</li>
+
+---
+
+**Senior PHP Developer**                   
+_01/06/2015 – 01/12/2021_
+
+Company:  [C4S - (<a href="https://www.aylo.com" target="_blank">Aylo</a> former <a href="https://www.mindgeek.com" target="_blank">MindGeek</a>)]
 
 > Working at the world's biggest adult entertainment  company, 
 > where I do mostly code architecture, design and developing.
