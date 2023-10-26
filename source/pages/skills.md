@@ -29,12 +29,14 @@ Skills
   <li>Vue.Js 2/3</li>
   <li>JQuery</li>
   <li>LoDash</li>
+  <li>Vuetify</li>
+  <li>Quasar</li>
+  <li>ElementUI</li>
 <hr/>
 
 > **Databases:**
   <li>MySQL</li>
-  <li>MsSql</li>
-  <li>PostgreSQL</li>
+  <li>MsSql (TSQL)</li>
   <li>Firebase</li>
   <li>MongoDB</li>
   <li>ElasticSearch</li>
@@ -48,25 +50,35 @@ Skills
 > **Mobile Application Development:**
   <li>NativeScript</li>
   <li>Ionic 2</li>
+  <li>Cordova</li>
 <hr/>
 
 > **Dev Enviroment:**
   <li>Docker</li>
   <li>Vagrant</li>
+  <li>Valet/Herd</li>
 <hr/>
 
 > **Source Control:**
-  <li>GIT,SVN</li>
+  <li>GIT</li>
+  <li>SVN</li>
 <hr/>
 
-> **Project Management Software:**
-  <li>JIRA, Redmine, Trello</li>
-  <li>Strong technical and analytical skills.</li>
-  Adaptable to learn new skills and technologies for enhanced productivity.
+
+> **Deployment:**
+  <li>Gitlab CI/CD</li>
+  <li>GitHub Actions</li>
+<hr/>
+
+
+> **Project Management:**
+  <li>JIRA</li>
+  <li>Redmine</li>
+  <li>Trello</li>
 <hr/>
 
 > **Deno - A secure runtime for JavaScript and TypeScript:**
-  <li> Experimenting with new technologies / <a href="https://github.com/uchm4n/crony" target="_blank">Module</a></li>
+  <li> Experimenting with new technologies / <a href="https://github.com/uchm4n/crony" target="_blank">Contribution</a></li>
 <hr/>
 
 Language Skills
