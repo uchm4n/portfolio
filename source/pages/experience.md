@@ -13,7 +13,7 @@ Experience
 **Senior PHP Developer**                   
 _01/01/2022 – now_
 
-Company:  [SEWAN - ([Sewan Deutschland](https://de.sewan.eu/))]
+Company:  [SEWAN - (<a href="https://de.sewan.eu" target="_blank">Sewan Deutschland</a>)]
 
 > The Sewan Group is an innovative, European white label platform operator for 
 > telecommunications and cloud services.
@@ -49,12 +49,13 @@ Company:  [C4S - (<a href="https://www.aylo.com" target="_blank">Aylo</a> former
 <li>Rewrite old monolithic code into modern architecture.</li>
 
 ___
-**Middle PHP Developer**                               
+**Senior PHP Developer**                               
 _01/02/2014 – 01/05/2015_
 
 Company:  [<a href="http://bankofgeorgia.ge/" target="_blank">Bank Of Georgia</a>]
 
-> Signed a one-year contract with a Bank of Georgia to build a retail banking system in short time, responsibilities was:
+> Signed a one-year contract with a Bank of Georgia to build a retail banking system in short time, 
+> responsibilities was:
 
 <li>Create and maintain software documentation</li>
 <li>Be responsible for maintaining, expanding and scaling software</li>
@@ -66,11 +67,13 @@ Company:  [<a href="http://bankofgeorgia.ge/" target="_blank">Bank Of Georgia</a
 
 
 ---
-**Web Developer**                  
+**PHP Developer**                  
 _07/02/2010 – 01/11/2013_
 
-Company: [<a href="http://sales.novatech.ge/ge/index.php" target="_blank">PayBox</a>]
+Company: [PayBox - <a href="https://oppa.ge/en" target="_blank">OPPA</a> former <a href="https://oppa.ge/en" target="_blank">NovaTechnology</a>]
 
+> The PayBox brand was created in 2008, 
+> the employees themselves assembled self-service quick check-in machines. 
 > Main responsibilities:
 
 <li>Write well-designed, testable code and follow architecture structure</li>
