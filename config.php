@@ -7,7 +7,7 @@ return [
     'production'          => false,
     'siteName'            => 'Full Stack Developer',
     'siteDescription'     => 'Ucha Chilachava',
-    'google_analytics_id' => 'UA-59229127-1',
+    'google_analytics_id' => 'G-NBZFSCV1WT',
 
     // Algolia DocSearch credentials
     'docsearchApiKey'     => env('DOCSEARCH_KEY'),

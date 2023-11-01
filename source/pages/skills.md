@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-Skills
+**Skills**
 ---
 **My current software development skills:**
 
@@ -22,6 +22,7 @@ Skills
   <li>PhalconPHP</li>
   <li>Symfony</li>
   <li>CodeIgniter</li>
+  <li>CackePHP</li>
 <hr/>
 
 > **Javascript:**
@@ -39,6 +40,7 @@ Skills
   <li>MsSql (TSQL)</li>
   <li>Firebase</li>
   <li>MongoDB</li>
+  <li>Redis</li>
   <li>ElasticSearch</li>
 
 <hr/>
@@ -84,6 +86,7 @@ Skills
 Language Skills
 ---
 
-**English** - intermediate     
-**Russian**  _( Русский )_ - intermediate                
-**Georgian**  _( ქართული )_ - native    
+**English** - advance  C1 C2
+**Russian**  _( Русский )_ - advance C1 C2
+**German**  _( Deutsch )_ - A1
+**Georgian**  _( ქართული )_ - native

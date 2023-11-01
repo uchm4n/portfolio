@@ -66,16 +66,13 @@
 @stack('scripts')
 
 
-<!--Google Analytics Global site tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-59229127-1"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ $page->google_analytics_id }}"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
-
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-
+    function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
+
     gtag('config', '{{ $page->google_analytics_id }}');
 </script>
 

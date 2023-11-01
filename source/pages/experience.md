@@ -6,8 +6,7 @@ section: content
 ---
 
 
-Experience
-
+**Experience**
 ---
 
 **Senior PHP Developer**                   
@@ -25,6 +24,8 @@ Company:  [SEWAN - (<a href="https://de.sewan.eu" target="_blank">Sewan Deutschl
 <li>Be responsible for maintaining, expanding and scaling software</li>
 <li>Design software architecture</li>
 <li>Research new technologies (AI)</li>
+
+**Technologies used:** PHP, Custom PHP Frameworks, MSSQL, RabbitMQ, Python(PrivateGPT), Git.
 
 ---
 
@@ -46,7 +47,13 @@ Company:  [C4S - (<a href="https://www.aylo.com" target="_blank">Aylo</a> former
 <li>Develop mobile applications and well-designed API</li>
 <li>Research new technologies</li>
 <li>Contribute to open source projects, write framework-agnostic packages.</li>
-<li>Rewrite old monolithic code into modern architecture.</li>
+<li>Rewrite the whole system from PhalconPHP to Laravel (PHP 8.1)</li>
+<li>Architect a new API, using DTO and Repository pattern.</li>
+<li>Improved logging, exception handling and event system</li>
+<li>Developed and architected background job system for emails,video/image decode/encoding, big files and for system events. With programmable schedule time and locks</li>
+
+**Technologies used:** PHP, Laravel/PhalconPHP, JS, Vue.js, MySQL, Elasticsearch, Redis, Git.
+
 
 ___
 **Senior PHP Developer**                               
@@ -65,6 +72,7 @@ Company:  [<a href="http://bankofgeorgia.ge/" target="_blank">Bank Of Georgia</a
 <li>Integrate 3Party payment gateways in our software</li>
 <li>Monitor server/network load and cooperate with DevOps</li>
 
+**Technologies used:** PHP, Laravel/Codeigniter/Custom, MySQL, Oracle, JS, Jquery, Git.
 
 ---
 **PHP Developer**                  
@@ -82,3 +90,5 @@ Company: [PayBox - <a href="https://oppa.ge/en" target="_blank">OPPA</a> former 
 <li>Write console applications</li>
 <li>Develop internal portals and admin panels for PayBox machine (PHP)</li>
 <li>Develop Web interfaces and APIs for PayBox machine to access company resources</li>
+
+**Technologies used:** PHP, Wordpress/ISPConfig, JS, JQuery, HTML, CSS, Bash, Python (web scraping).

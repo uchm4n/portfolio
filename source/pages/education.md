@@ -5,7 +5,7 @@ extends: _layouts.documentation
 section: content
 ---
 
-Education
+**Education**
 ---
 
 **Georgian Technical University** (Tbilisi, Georgia) _Date 2005 - 2009_                  
