@@ -48,7 +48,7 @@
                     <a href="{{ $page->baseUrl }}/pages/education" title="Details" class="bg-gray-600 hover:bg-blue-800 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">
                         Details
                     </a>
-                    <a href="https://drive.google.com/u/0/uc?id=1qT7aFm--TW-QKvc7GDHcpArnzYz-jxQ9&export=download" title="Details" target="_blank" class="bg-blue-600 hover:bg-blue-800 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">
+                    <a href="https://drive.google.com/u/0/uc?id=1BG9ZkbtY11YMVqQ2j3pfVg43VK06z3vC&export=download" title="Details" target="_blank" class="bg-blue-600 hover:bg-blue-800 font-normal text-white hover:text-white rounded mr-4 py-2 px-6">
                         Download
                     </a>
                 </div>
