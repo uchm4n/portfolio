@@ -86,7 +86,7 @@ section: content
 Language Skills
 ---
 
-**English** - advance  C1 C2
-**Russian**  _( Русский )_ - advance C1 C2
-**German**  _( Deutsch )_ - A1
-**Georgian**  _( ქართული )_ - native
+<li>**English** - advance  C1 C2</li>
+<li>**Russian**  _( Русский )_ - advance C1 C2</li>
+<li>**German**  _( Deutsch )_ - A1</li>
+<li>**Georgian**  _( ქართული )_ - native</li>
