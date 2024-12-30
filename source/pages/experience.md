@@ -16,17 +16,18 @@ Company:  [MOC - (<a href="https://www.moc.gov.sa/" target="_blank">Ministry of 
 
 > Saudi Arabia’s Ministry of Culture
 
-Rewrite old Project parts to modern php 8
-Write Unit/Functional/Integration/API/End2End tests
-Use SonarCloud and PHPCS to establish code standards across legacy code
-Design software architecture for new code in consideration of legacy code
-Rewrite request/response flow, add ability to use middlewares to legacy app
-Rewrite queue system for emails,media,db transaction processing
-Rewrite schedule jobs, using Asynchronous Multitasking PHP (amphp)
-Rewrite entire logging system and integrate New Relic cloud-based monitoring platform
-Improve API consistency by adding transformers and make data and error codes standardised across application
-Integrate third party services and payment gateways
-Write reusable libraries
+<li>Rewrite old Project parts to modern php 8</li>
+<li>Write Unit/Functional/Integration/API/End2End tests</li>
+<li>Use SonarCloud and PHPCS to establish code standards across legacy code</li>
+<li>Design software architecture for new code in consideration of legacy code</li>
+<li>Rewrite request/response flow, add ability to use middlewares to legacy app</li>
+<li>Rewrite queue system for emails,media,db transaction processing</li>
+<li>Rewrite schedule jobs, using Asynchronous Multitasking PHP (amphp)</li>
+<li>Rewrite entire logging system and integrate New Relic cloud-based monitoring platform</li>
+<li>Improve API consistency by adding transformers and make data and error codes standardised across application</li>
+<li>Integrate third party services and payment gateways</li>
+<li>Write reusable libraries</li>
+<li>Perform A/B testing and improve performance</li>
 
 
 **Technologies used:** PHP, Zend Framework, MSSQL, JS, Jquery, ReactJS, RabbitMQ, Elasticsearch, Redis, Git.
