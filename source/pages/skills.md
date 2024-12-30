@@ -20,6 +20,7 @@ section: content
 > **PHP Frameworks:**
   <li>Laravel</li>
   <li>PhalconPHP</li>
+  <li>Zend</li>
   <li>Symfony</li>
   <li>CodeIgniter</li>
   <li>CackePHP</li>
@@ -27,6 +28,7 @@ section: content
 
 > **Javascript:**
   <li>Typescript</li>
+  <li>ReactJS</li>
   <li>Vue.Js 2/3</li>
   <li>JQuery</li>
   <li>LoDash</li>
@@ -77,10 +79,6 @@ section: content
   <li>JIRA</li>
   <li>Redmine</li>
   <li>Trello</li>
-<hr/>
-
-> **Deno - A secure runtime for JavaScript and TypeScript:**
-  <li> Experimenting with new technologies / <a href="https://github.com/uchm4n/crony" target="_blank">Contribution</a></li>
 <hr/>
 
 Language Skills

@@ -10,7 +10,26 @@ section: content
 ---
 
 **Senior PHP Developer**                   
-_01/01/2022 – now_
+_01/12/2023 – now_
+
+Company:  [MOC - (<a href="https://www.moc.gov.sa/" target="_blank">Ministry of Culture</a>)]
+
+> Saudi Arabia’s Ministry of Culture
+
+<li>Rewrite old Project parts to modern php 8</li>
+<li>Write Unit/Functional/Integration/API/End2End tests</li>
+<li>Use SonarCloud and PHPCS to establish code standards across legacy code and in team</li>
+<li>Design software architecture for new code in consideration of legacy code</li>
+<li>Rewrite job system for emails,video/image processing and for schedule jobs</li>
+
+
+**Technologies used:** PHP, Zend Framework, MSSQL, JS, Jquery, ReactJS, RabbitMQ, Elasticsearch, Redis, Git.
+
+---
+
+
+**Senior PHP Developer**                   
+_01/01/2022 – 01/11/2023_
 
 Company:  [SEWAN - (<a href="https://de.sewan.eu" target="_blank">Sewan Deutschland</a>)]
 

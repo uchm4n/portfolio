@@ -40,8 +40,10 @@
                     Full stack web developer with <strong>10+</strong> years of experience specialising in high quality application development.
                     Working in a high-end companies, give me valuable skills, both technical and analytical skills.
                     I will help you transform your personal or business concept into a successful web/mobile/desktop app.
-                    Over the past years I’ve been involved with all sorts of technology.
-                    I am a quick learner and can do pretty much <strong>anything</strong> on the web!
+
+                    What sets me apart is my ability to communicate effectively and simplify complex tasks.
+                    Whether it’s breaking down intricate problems for teammates or explaining technical solutions to non-technical stakeholders,
+                    I ensure everyone is on the same page, paving the way for success.
                 </p>
 
                 <div class="flex my-10">
