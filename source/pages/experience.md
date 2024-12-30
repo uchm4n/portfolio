@@ -9,24 +9,24 @@ section: content
 **Experience**
 ---
 
-**Senior PHP Developer**                   
+**Senior PHP /Lead Engineer**                   
 _01/12/2023 – now_
 
 Company:  [MOC - (<a href="https://www.moc.gov.sa/" target="_blank">Ministry of Culture</a>)]
 
 > Saudi Arabia’s Ministry of Culture
 
-<li>Rewrite old Project parts to modern php 8</li>
-<li>Write Unit/Functional/Integration/API/End2End tests</li>
-<li>Use SonarCloud and PHPCS to establish code standards across legacy code and in team</li>
-<li>Design software architecture for new code in consideration of legacy code</li>
-<li>Rewrite request/response flow, add ability to use middlewares to legacy app</li>
-<li>Rewrite queue system for emails,media,db transaction processing</li>
-<li>Rewrite schedule jobs, using Asynchronous Multitasking PHP (amphp)</li>
-<li>Rewrite entire logging system and integrate New Relic cloud-based monitoring platform</li>
-<li>Improve API consistency by adding transformers and make data and error codes standardised across application</li>
-<li>Integrate third party services and payment gateways</li>
-<li>Write reusable libraries</li>
+Rewrite old Project parts to modern php 8
+Write Unit/Functional/Integration/API/End2End tests
+Use SonarCloud and PHPCS to establish code standards across legacy code
+Design software architecture for new code in consideration of legacy code
+Rewrite request/response flow, add ability to use middlewares to legacy app
+Rewrite queue system for emails,media,db transaction processing
+Rewrite schedule jobs, using Asynchronous Multitasking PHP (amphp)
+Rewrite entire logging system and integrate New Relic cloud-based monitoring platform
+Improve API consistency by adding transformers and make data and error codes standardised across application
+Integrate third party services and payment gateways
+Write reusable libraries
 
 
 **Technologies used:** PHP, Zend Framework, MSSQL, JS, Jquery, ReactJS, RabbitMQ, Elasticsearch, Redis, Git.
@@ -70,7 +70,7 @@ Company:  [C4S - (<a href="https://www.aylo.com" target="_blank">Aylo</a> former
 <li>Develop mobile applications and well-designed API</li>
 <li>Contribute to open source projects, write framework-agnostic packages.</li>
 <li>Rewrote the whole system from PhalconPHP to Laravel (PHP 8.1)</li>
-<li>Architect a new API, using DTO and Repository pattern.</li>
+<li>Architect a high traffic API from ground up.</li>
 <li>Improved logging, exception handling and event system</li>
 <li>Developed and architected background job system for emails,video/image decode/encoding, big files and for system events. 
 With programmable schedule time and locks</li>
@@ -101,7 +101,7 @@ Company:  [<a href="http://bankofgeorgia.ge/" target="_blank">Bank Of Georgia</a
 **PHP Developer**                  
 _07/02/2010 – 01/11/2013_
 
-Company: [PayBox - <a href="https://oppa.ge/en" target="_blank">OPPA</a> former <a href="https://oppa.ge/en" target="_blank">NovaTechnology</a>]
+Company: [<a href="https://paybox.ge/en" target="_blank">PayBox</a>]
 
 > Worked on PayBox brand which provided self-service quick check-in machines
 
