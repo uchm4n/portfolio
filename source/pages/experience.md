@@ -10,24 +10,24 @@ section: content
 ---
 
 **Senior PHP /Lead Engineer**                   
-_01/12/2023 – now_
+_01/12/2023 – current_
 
 Company: <a href="https://platinumlist.net/" target="_blank">Platinumlist</a>
 
 > Project: Saudi Arabia’s Ministry of Culture Ticketing System
 
-<li>Rewrite old Project parts to modern php 8</li>
-<li>Write Unit/Functional/Integration/API/End2End tests</li>
-<li>Use SonarCloud and PHPCS to establish code standards across legacy code</li>
+<li>Rewrite old Project parts to modern PHP 8</li>
+<li>Write <i>Unit/Functional/Integration/API/End2End</i> tests</li>
+<li>Use <strong>SonarCloud</strong> and <strong>PHPCS</strong> to establish code standards across legacy code</li>
 <li>Design software architecture for new code in consideration of legacy code</li>
 <li>Rewrite request/response flow, add ability to use middlewares to legacy app</li>
 <li>Rewrite queue system for emails,media,db transaction processing</li>
-<li>Rewrite schedule jobs, using Asynchronous Multitasking PHP (amphp)</li>
-<li>Rewrite entire logging system and integrate New Relic cloud-based monitoring platform</li>
+<li>Rewrite schedule jobs, using Asynchronous Multitasking PHP (<strong>amPHP</strong>)</li>
+<li>Rewrite entire logging system and integrate <strong>New Relic</strong> cloud-based monitoring platform</li>
 <li>Improve API consistency by adding transformers and make data and error codes standardised across application</li>
 <li>Integrate third party services and payment gateways</li>
 <li>Write reusable libraries</li>
-<li>Perform A/B testing and improve performance</li>
+<li>Perform <strong>A/B</strong> testing and improve performance</li>
 
 
 **Technologies used:** PHP, Zend Framework, MSSQL, JS, Jquery, ReactJS, RabbitMQ, Elasticsearch, Redis, Git.
@@ -48,7 +48,7 @@ Company:  [SEWAN - (<a href="https://de.sewan.eu" target="_blank">Sewan Deutschl
 <li>Migrating all projects from old db driver in to new</li>
 <li>Be responsible for maintaining, expanding and scaling software</li>
 <li>Design software architecture</li>
-<li>Research and implement new technologies (AI - PrivateGPT)</li>
+<li>Research and implement new technologies (AI - <strong>PrivateGPT</strong>)</li>
 
 **Technologies used:** PHP, Custom PHP Frameworks, MSSQL, RabbitMQ, Python(PrivateGPT), Git.
 
@@ -70,10 +70,10 @@ Company:  [C4S - (<a href="https://www.aylo.com" target="_blank">Aylo</a> former
 <li>Wrote well-designed testable code and follow architecture</li>
 <li>Develop mobile applications and well-designed API</li>
 <li>Contribute to open source projects, write framework-agnostic packages.</li>
-<li>Rewrote the whole system from PhalconPHP to Laravel (PHP 8.1)</li>
+<li>Rewrote the whole system from <strong>PhalconPHP</strong> to <strong>Laravel</strong> (PHP 8.1)</li>
 <li>Architect a high traffic API from ground up.</li>
 <li>Improved logging, exception handling and event system</li>
-<li>Developed and architected background job system for emails,video/image decode/encoding, big files and for system events. 
+<li>Developed and architected background job system for <i>emails,video/image decode/encoding</i>, big files and for system events. 
 With programmable schedule time and locks</li>
 
 **Technologies used:** PHP, AMP PHP, Swoole, ReactPHP, Laravel/PhalconPHP, 
@@ -106,11 +106,10 @@ Company: [<a href="https://paybox.ge/en" target="_blank">PayBox</a>]
 
 > Worked on PayBox brand which provided self-service quick check-in machines
 
-<li>Write well-designed, testable code and follow architecture structure</li>
-<li>Created website templates by using Html/Css/JS/PHP for CMS (Drupal,Wordpress)</li>
+<li>Created plugins and backend systems using PHP</li>
 <li>Wrote scripts (Bash,PHP) for linux machines to automate jobs</li>
 <li>Wrote console applications</li>
-<li>Developed internal portals and admin panels for PayBox machine (PHP)</li>
-<li>Developed Web interfaces and APIs for PayBox machine to access company resources</li>
+<li>Developed internal portals and admin panels for <strong>PayBox</strong> machine (PHP)</li>
+<li>Developed Web interfaces and APIs for <strong>PayBox</strong> machine to access company resources</li>
 
 **Technologies used:** PHP, Wordpress/ISPConfig, JS, JQuery, HTML, CSS, Bash, Python (web scraping).

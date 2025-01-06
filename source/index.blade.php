@@ -6,30 +6,25 @@
             <div class="mt-8">
 
 
-                <h1 id="intro-docs-template">{{ $page->siteName }}</h1>
+                <h1 id="intro-docs-template">{{ $page->siteDescription }}</h1>
 
-                <h2 id="intro-powered-by-jigsaw" class="font-light mt-4">{{ $page->siteDescription }}</h2>
+                <h2 id="intro-powered-by-jigsaw" class="font-light mt-4">{{ $page->siteName }}</h2>
 
-                <div class="relative overflow-x-auto shadow-md sm:rounded-lg w-2/3">
+                <div class="relative overflow-x-auto shadow-md sm:rounded-lg w-full sm:w-2/3">
                     <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
                         <tbody>
-                        <tr class="bg-gray-50 border-b">
-                            <th scope="row" class="px-6 py-4 font-medium text-gray-900">Date Of Birth</th>
-                            <td class="px-6 py-4 text-gray-600">1 Jun 1987</td>
-                        </tr>
-                        <tr class="bg-gray-50 border-b">
-                            <th scope="row" class="px-6 py-4 font-medium text-gray-900">Birth Location</th>
-                            <td class="px-6 py-4 text-gray-600">Georgia, Tbilisi</td>
-                        </tr>
                         <tr class="bg-gray-50 border-b">
                             <th scope="row" class="px-6 py-4 font-medium text-gray-900">E-mail</th>
                             <td class="px-6 py-4 text-gray-600"><a class="text-gray-600" href="mailto:uchm4n@gmail.com">uchm4n@gmail.com</a></td>
                         </tr>
                         <tr class="bg-gray-50 border-b">
-                            <th scope="row" class="px-6 py-4 font-medium text-gray-900">Github</th>
-                            <td class="px-6 py-4 text-gray-500"><a class="text-gray-600" href="https://github.com/uchm4n" target="_blank" >github.com/uchm4n</a></td>
+                            <th scope="row" class="px-6 py-4 font-medium text-gray-900">Linkedin</th>
+                            <td class="px-6 py-4 text-gray-600"><a class="text-gray-600" href="http://linkedin.com/in/uchm4n" target="_blank">linkedin.com/uchm4n</a></td>
                         </tr>
-
+                        <tr class="bg-gray-50 border-b">
+                            <th scope="row" class="px-6 py-4 font-medium text-gray-900">Github</th>
+                            <td class="px-6 py-4 text-gray-600"><a class="text-gray-600" href="https://github.com/uchm4n" target="_blank">github.com/uchm4n</a></td>
+                        </tr>
                         </tbody>
                     </table>
                 </div>
