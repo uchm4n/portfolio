@@ -12,7 +12,7 @@ section: content
 **Senior PHP /Lead Engineer**                   
 _01/12/2023 – current_
 
-Company: <a href="https://platinumlist.net/" target="_blank">Platinumlist</a>
+Company: [<a href="https://platinumlist.net/" target="_blank">Platinumlist</a>]
 
 > Project: Saudi Arabia’s Ministry of Culture Ticketing System
 
@@ -57,7 +57,7 @@ Company:  [SEWAN - (<a href="https://de.sewan.eu" target="_blank">Sewan Deutschl
 **Senior PHP Developer**                   
 _01/06/2015 – 01/12/2021_
 
-Company:  [C4S - (<a href="https://www.aylo.com" target="_blank">Aylo</a> former <a href="https://www.mindgeek.com" target="_blank">MindGeek</a>)]
+Company:  [C4S - <a href="https://www.aylo.com" target="_blank">Aylo</a>]
 
 > Working at the world's largest adult entertainment company, 
 > where my role focused on code architecture, design and development. 
