@@ -12,9 +12,9 @@ section: content
 **Senior PHP /Lead Engineer**                   
 _01/12/2023 – now_
 
-Company:  [(<a href="https://platinumlist.net/" target="_blank">Platinumlist</a>)]
+Company: <a href="https://platinumlist.net/" target="_blank">Platinumlist</a>
 
-> Project: Saudi Arabia’s Ministry of Culture
+> Project: Saudi Arabia’s Ministry of Culture Ticketing System
 
 <li>Rewrite old Project parts to modern php 8</li>
 <li>Write Unit/Functional/Integration/API/End2End tests</li>
